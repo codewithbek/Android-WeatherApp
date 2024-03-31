@@ -1,7 +1,7 @@
-# Udevs Todo App
+# Weather App
 
 ## Dastur xaqida
-Udevs Todo - bu turli xil vazifalarni qo'shish va vazifalni qilishda ulgurishga yordam qiladi.
+Weather App - bu ob-havo ma'lumotlari haqida ma'lumot beradi.
 ***
 ## Dastur ko'rinishi
 ### Asosiy oynalar
@@ -48,24 +48,4 @@ Udevs Todo - bu turli xil vazifalarni qo'shish va vazifalni qilishda ulgurishga 
 <img src="/readme_asset/delete%20category.png" alt="drawing" width="200"/>
 
 
-***
-### ___Dasturdagi Packagelar___
-* [lottie](https://pub.dev/packages/lottie)
-    - _Lottie formatdagi animatsiyalar_
-* [flutter_svg](https://pub.dev/packages/flutter_svg)
-    - _svg formatdagi rasimlar uchun_
-* [intl](https://pub.dev/packages/intl)
-    - _vaqtlarni chiroyli ko'rsatish uchun_
-* [fluttertoast](https://pub.dev/packages/fluttertoast)
-    - _info dialog ko'rsatish uchun_
-* [flutter_slidable](https://pub.dev/packages/flutter_slidable)
-    - _widgetni chap va o'ng tomonga slide qilganda qo'shimcha widget ko'rsatish uchun_
-* [hive](https://pub.dev/packages/hive_flutter)
-    - _malumotlarni local no sql tarzida saqlash uchun_
-* [shared_preferences](https://pub.dev/packages/shared_preferences)
-    - _kichik malumotlarni local saqlash uchun_
-* [flutter_bloc](https://pub.dev/packages/flutter_bloc)
-    - _state management_
-* [flutflutter_local_notificationster_bloc](https://pub.dev/packages/flutter_local_notifications)
-    - _xabarnoma bildirish uchun_
-    
+
